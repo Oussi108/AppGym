@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Body Parts"
+        android:icon="@drawable/bodyparts"
+        android:id="@+id/body"/>
+    <item android:title="Machines"
+        android:id="@+id/machines"
+        android:icon="@drawable/machines"/>
+    <item android:title="Progress"
+        android:id="@+id/progress"
+        android:icon="@drawable/dailytask"/>
+</menu>
